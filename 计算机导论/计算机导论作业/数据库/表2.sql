@@ -1,0 +1,1 @@
+UPDATE doc SET job='doc' WHERE num='2020054821'
